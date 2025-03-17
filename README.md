@@ -1,4 +1,7 @@
 Visual Object Detection in Domestic Settings
+
+The paper is about visual object detection in domesticsettings. This paper briefly discusses what visual object detection is and the different models that are best suited for visual object detection in domestic settings. The comparison is done through the processing of different models, the probability comparison between the models is also done and the results are dissected.
+
 This project focuses on object detection in domestic environments using state-of-the-art deep learning models. The goal is to detect and classify objects in various indoor settings such as bedrooms, bathrooms, living rooms, and children's rooms. The project compares the  performance of several models, including YOLOv5, YOLOv8, YOLOv11, Detectron2, and MobileNet SSD, to determine the best model for indoor object detection.
 Project Overview
 The project evaluates the performance of different object detection models in domestic settings. The models are trained and tested on indoor environments, and their accuracy, confidence scores, and ability to handle visual clutter and lighting variations are compared. The results are presented in Excel files, which include detailed probability analysis for each detected object.
